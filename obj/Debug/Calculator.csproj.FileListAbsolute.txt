@@ -1,0 +1,18 @@
+C:\Users\Bilal Ahmad\Desktop\2nd Semester\C#\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Bilal Ahmad\Desktop\2nd Semester\C#\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Bilal Ahmad\Desktop\2nd Semester\C#\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Bilal Ahmad\Desktop\2nd Semester\C#\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Bilal Ahmad\Desktop\2nd Semester\C#\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Bilal Ahmad\Desktop\2nd Semester\C#\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Bilal Ahmad\Desktop\2nd Semester\C#\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Bilal Ahmad\Desktop\2nd Semester\C#\Calculator\Calculator\obj\Debug\Calculator.CALCULATOR.resources
+C:\Users\Bilal Ahmad\Desktop\2nd Semester\C#\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Bilal Ahmad\Desktop\Ali Makhdoom\New folder\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Bilal Ahmad\Desktop\Ali Makhdoom\New folder\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Bilal Ahmad\Desktop\Ali Makhdoom\New folder\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Bilal Ahmad\Desktop\Ali Makhdoom\New folder\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Bilal Ahmad\Desktop\Ali Makhdoom\New folder\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Bilal Ahmad\Desktop\Ali Makhdoom\New folder\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Bilal Ahmad\Desktop\Ali Makhdoom\New folder\Calculator\Calculator\obj\Debug\Calculator.CALCULATOR.resources
+C:\Users\Bilal Ahmad\Desktop\Ali Makhdoom\New folder\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Bilal Ahmad\Desktop\Ali Makhdoom\New folder\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
